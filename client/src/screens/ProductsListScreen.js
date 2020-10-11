@@ -19,13 +19,13 @@ export function ProductsListScreen({navigation}) {
       headerRight: () => (
         <HeaderIconsContainer>
           <HeaderIconButton
-            name={'color-palette'}
+            name={'color-palette-outline'}
             onPress={() => {
               switchTheme();
             }}
           />
           <HeaderIconButton
-            name={'log-out'}
+            name={'ios-exit-outline'}
             onPress={() => {
               logout();
             }}

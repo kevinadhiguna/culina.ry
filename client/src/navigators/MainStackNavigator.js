@@ -11,7 +11,7 @@ export function MainStackNavigator() {
         name={'ProductsList'}
         component={ProductsListScreen}
         options={{
-          title: 'Products List',
+          title: 'Culina.ry 🍽️',
         }}
       />
     </MainStack.Navigator>

@@ -8,7 +8,7 @@ export function TextButton({title, style, onPress}) {
   return (
     <TouchableOpacity style={[styles.container, style]} onPress={onPress}>
       <Text style={[styles.text, {color: colors.primary}]}>
-        {title.toUpperCase()}
+        {title}
       </Text>
     </TouchableOpacity>
   );
