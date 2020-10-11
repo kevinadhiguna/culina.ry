@@ -13,7 +13,7 @@ export function Product({product, onPress}) {
       />
       <View style={styles.infoContainer}>
         <Text style={styles.name}>{product.name}</Text>
-        <Text style={styles.price}>{product.price}</Text>
+        <Text style={styles.price}>$ {product.price} USD</Text>
         <Text style={styles.description}>{product.description}</Text>
       </View>
     </Card>
