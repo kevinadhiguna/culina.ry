@@ -1,7 +1,11 @@
 # culina.ry
+
 🍽️ a culinary app built with React Native and powered by Strapi and REST API.
 
+<br />
+
 ## Demo
+
 How this app actually looks :<br>
 
 ### Login Screen
@@ -23,5 +27,6 @@ How this app actually looks :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/culina.ry/master/demo/list-dark-2.png" width="30%"></img>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/culina.ry/master/demo/list-dark-3.png" width="30%"></img> <br>
 
+<br />
 
 ![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=culina.ry&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
